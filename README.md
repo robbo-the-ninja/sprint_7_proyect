@@ -1,2 +1,2 @@
 # sprint_7_proyect
-Setting up a website with render.com
+This is an interactive website built with Python. You can explore some patterns from a used car data set. Deployed on Render.com.
